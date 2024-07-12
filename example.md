@@ -1,6 +1,6 @@
-# Development
+# Example
 
-## Local environment
+## Legacy applications
 
 Lorem markdownum. Adsiduis officio mora conciliumque litore super mersis, se
 quod, opem noxque, non libera ab. Infra opus peregit non. Et hanc nostra minatur
@@ -13,7 +13,7 @@ saxis fulmineis est esse. Contenta vidit, nec pugnes attonitus summo iugo,
 deposcunt Amenanus Iunonis? Quaesitamque motae nec: terras heros semper nuper,
 [et inpono gradus](http://stupet.com/propiusquepartem.php), ab.
 
-## Using containers
+## Modern applications
 
 Tum quae convicia studiis: faxo cunas visa clarus, quondam, prius. Novi nata
 dedit, Poemenis trementi haruspex prodere fontem: e. Nova nubes bracchia aras
@@ -32,27 +32,7 @@ Tamen tenebras sit vacuas ire fecerat deus reddidit sonantia, mite **sorores**,
 surrexit removente iussa et, ne. Verba malorum Lycias tempestiva irae ex mentes
 illo durasse Proteus genitore habes; Phoebes doloris, **et rara**.
 
-## Version control
-
-Inque inmurmurat at prodere: o viri corpora nuper, ut calido certa **cum**.
-Ilios enim iam iniustaque fonti, ab torva. Auro precor _solebat_ vincla
-septemplice ultra errore crescens nomina dextraque annis
-[praetemptatque](http://www.imaginenostris.org/) carpitque protinus dextra,
-exanimem, fatentis. Maris rates, et **fugant et** pia aera rumpere arces
-[laesasque](http://undas-animosque.io/pocula), ira silvas quem ministri variatis
-Cerberon videntem si.
-
-> Aureus in tellus deplanxere facti se tuus sive, cecidere quisque, variare
-> pulsatus. Non in gentesque funera _sufficiunt detractare illo_ perlucentibus
-> [atlas](http://morte.io/pabulaaltismunera) vel reperta non insula.
-
-Noctis tamen. Ora facta armo montis iussae Busirin in flammae inanes.
-
-Pia fuerunt movit, terra turba mentis quem cinis cladem, madidum labor ponit
-clavam. Imo vitamque: diem cum ore intravit pro filia Aiax.
-
-
-## Troubleshooting
+## Hybrid applications
 
 Inque inmurmurat at prodere: o viri corpora nuper, ut calido certa **cum**.
 Ilios enim iam iniustaque fonti, ab torva. Auro precor _solebat_ vincla
