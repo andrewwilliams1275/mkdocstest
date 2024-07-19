@@ -2,6 +2,7 @@
 name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
+use_directory_urls = false
 
 [dev-packages]
 pytest = "*"
