@@ -1,0 +1,9 @@
+
+# Local Netlify folder
+.netlify
+Pipfile
+Pipfile.lock
+/docs
+!/docs/site/*
+!.gitignore
+!README.md
